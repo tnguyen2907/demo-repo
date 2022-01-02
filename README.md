@@ -1,1 +1,3 @@
 # demo-repo
+
+yo github
